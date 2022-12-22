@@ -1,0 +1,140 @@
+heading_title = Margin report
+module_sm_title = Margin report
+module_sm_short_title = Margin report
+
+text_stats_margin_report = Margin report
+text_configure =  configure App Module
+
+text_intro = This app allow you to include a Margin report. <br /><br />
+- Click on Configure to access / install or uninstall the app.<br />
+- The App is located in Report<br />
+
+module_sm_introduction = The install process create the database settings for this module and the access menu
+
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_cancel = Cancel
+button_stats_margin_report = Margin report
+button_reset = Reset
+button_analyse = Analyse
+button_update = Update
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.
+
+
+
+
+table_heading_product = Product
+table_heading_cost = Cost
+table_heading_price = Price
+table_heading_special_price = Special Price
+table_heading_margin_dollars = Margin ($)
+table_heading_margin_percentage = Margin (%)
+table_heading_action = Action
+
+text_file_does_not_exist = File does not exist
+text_cache_directory = Cache Directory:
+text_show = Show:
+text_all_manufacturers = All Manufacturers
+text_all_categories_by_manufacturer = All Categories by Manufacturer
+text_all_categories = All Categories
+error_cache_directory_does_not_exist = Error: Cache directory does not exist. Please set this Configuration->Cache.
+error_cache_directory_not_writeable = Error: Cache directory is not writeable.
+text_sort_products = Sort products
+text_descendingly = descendingly
+text_ascendingly = ascendingly
+text_by =  by
+text_handling = Others costs associated
+text_no_products = There are no products in the database.
+text_result_pages = Result Pages:
+
+button_back_to_main = Back to Main
+text_select_report = Please select a report
+text_select_report_daily = Daily
+text_select_report_yesterday = Yesterday
+text_select_report_weekly = Weekly
+text_select_report_last_week = Last Week
+text_select_report_monthly = Monthly
+text_select_report_last_month = Last Month
+text_select_report_quarterly = Quarterly
+text_select_report_semiannually = Semi-annually
+text_select_report_annually = Annually
+
+text_report_header = This report is for all orders.
+text_report_header_from_day = This report is for the day beginning:
+text_report_header_from_yesterday = This report is for yesterday -
+text_report_header_from_week = This report is for the week beginning:
+text_report_header_from_lastweek = This report is for last week.
+text_report_header_from_month = This report is for the month beginning
+text_report_header_from_lastmonth = This report is for last month beginning on
+text_report_header_from_quarter = This report is for the quarter beginning:
+text_report_header_from_semiyear = This report is for the semi-year beginning:
+text_report_header_from_year = This report is for the year beginning:
+text_report_between_days = This report is for the dates between
+text_and =  and
+
+
+
+table_heading_order_id = Order ID
+table_heading_products_name = Products Name
+table_heading_products_cost = Products Cost
+table_heading_products_price = Products Price
+table_heading_sales_amount = Amount
+table_heading_handling = Handling
+table_heading_reduc = Discounts
+table_heading_item_sold = Items Sold
+table_heading_sales_amount = Sales Amount
+table_heading_sales_net = Orders amount
+table_heading_cost = Product Cost
+table_heading_gross_profit = Gross profit
+table_heading_profit_net = Net profit
+
+
+text_total_items_sold = Items Sold total
+text_items_sold = Items Sold
+text_total_cost = Total Products Cost
+text_total_reduc = Discounts
+text_sales_net = Orders amount
+text_total_gross_profit = Gross Profit Total
+text_gross_profit = Gross profit
+text_profit_net = Net profit
+text_total_margin_net = Total net margin
+text_heading_total = Total
+
+text_query_dates = Select Dates  (YYYY-MM-DD):
+text_start_date = Start Date
+text_end_date = End Date
+title_status = Order Status:
+text_all_orders = All Orders
+
+title_help_margin_image = Notes
+title_help_margin = Informations notes
+title_help_margin_description = <li>The margin calculation is realised only on the product price. The options are not included in the calculation
+
+
+
+
+
+
+
+
+
+
+
+
+
+text_result_page = Page {{listing_from}} of {{listing_total}}
+text_display_number_of_link = Display <strong>{{listing_from}}</strong> to <strong>{{listing_to}}</strong> (on <strong>{{listing_total}}</strong>)

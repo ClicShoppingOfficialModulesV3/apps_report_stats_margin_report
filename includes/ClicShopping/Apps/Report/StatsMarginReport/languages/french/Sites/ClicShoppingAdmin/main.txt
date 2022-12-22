@@ -1,0 +1,115 @@
+heading_title = Rapport de marges
+module_sm_title =  Rapport de marges
+module_sm_short_title =  Rapport de marges
+
+text_stats_margin_report = Rapport de marges
+text_configure =  Configurer App Module
+
+text_intro = Cette app vous permet d'accéder à un rapport de marges<br /><br />
+- Cliquez sur configurer pour accéder à l'installation ou la désinstallation l'app.<br />
+- Cette app est dans le menu Rapports / Produits<br />
+
+module_sm_introduction = Le processus d'installation crée la base de données et le menu pour ce module
+
+button_install_title = Installer
+button_configure = Configurer
+button_save = Sauver
+button_dialog_uninstall =  Désinstaller
+button_uninstall =  Désinstaller
+button_delete = Supprimer
+button_cancel = Annuler
+button_stats_margin_report = Rapport de marges
+button_reset = Reset
+button_analyse = Analyser
+button_update = Mettre à jour
+
+dialog_uninstall_title = Désinstaller
+dialog_uninstall_body = Souhaitez-vous installer cette App ?
+dialog_uninstall_title = Désinstaller le module?
+dialog_uninstall_body = Etes vous sur de désinstaller ce module?
+
+alert_module_install_success = Le module a été installée.
+alert_module_uninstall_success = Le module a été désinstallée.
+alert_cfg_saved_success = les paramètres de configuration ont été mises à jour.
+
+
+table_heading_product = Produits
+table_heading_cost = Prix d'achat
+table_heading_price = Prix
+table_heading_special_price = Prix promotionnelle
+table_heading_margin_dollars = Marge ()
+table_heading_margin_percentage = Marge (%)
+table_heading_action = Action
+text_file_does_not_exist = Ce fichier n'existe pas
+text_cache_directory = Répertoire Cache :
+text_show = Afficher :
+text_all_manufacturers = Tous les fabricants
+text_all_categories_by_manufacturer = Toutes les catégories par Fabricants
+text_all_categories = Toutes les catégories
+error_cache_directory_does_not_exist = Erreur: Le répertoire Cache n'existe pas. Merci de régler cela Configuration->Cache.
+error_cache_directory_not_writeable = Erreur: Le répertoire Cache n'est inscriptible.
+text_sort_products = Tri des produits
+text_descendingly = desc
+text_ascendingly = asc
+text_by =  par
+text_handling = Autres Couts associés
+text_no_products = Il n'y a pas de produit dans la base.
+text_result_pages = Résultat :
+button_back_to_main = Retour Menu Principal
+text_select_report = Choisissez un rapport
+text_select_report_daily = Aujourd'hui
+text_select_report_yesterday = Hier
+text_select_report_weekly = Cette semaine
+text_select_report_last_week = Semaine derniére
+text_select_report_monthly = Ce mois
+text_select_report_last_month = Mois dernier
+text_select_report_quarterly = Ce trimestre
+text_select_report_semiannually =  Ce semestre
+text_select_report_annually = Annuelle
+text_report_header = Rapport pour toutes les commandes.
+text_report_header_from_day = Rapport du jour :
+text_report_header_from_yesterday = Rapport d'hier :
+text_report_header_from_week = Rapport de la semaine débutant le :
+text_report_header_from_lastweek = Rapport de la semaine dernière.
+text_report_header_from_month = Rapport du mois débutant le :
+text_report_header_from_lastmonth = Rapport du mois dernier
+text_report_header_from_quarter = Rapport du trimestre débutant le :
+text_report_header_from_semiyear = Rapport du semestre débutant le :
+text_report_header_from_year = Rapport de l'année débutant le :
+text_report_between_days = Rapport compris entre le
+text_and =  et le
+text_order_id = Ref commande
+text_products_name = Nom du Produit
+text_products_cost = Prix d'achat
+text_products_price = Prix de vente
+text_reduc = Réductions
+text_total_reduc = Montant des réductions
+text_special_price = Prix Promo
+text_margin_money = Marge en Euros
+text_margin_percentage = Marge en %
+text_total_items_sold = Total Articles Vendus :
+text_total_margin = Marge brute totale :
+text_items_sold = Articles Vendus
+text_sales_amount = Montant brut des commandes
+text_sales_net = Montant net des commandes
+text_cost = Prix d'achat
+text_total_cost = Prix d'achat Total :
+text_total_gross_profit = Marge brute totale :
+text_gross_profit = Bénéfice Brut
+text_profit_net = Bénéfice Net
+text_total_margin_net = Marge nette totale :
+text_total = Total
+text_query_dates = Choisissez les dates :
+text_start_date = Date du Début
+text_end_date = Date de Fin
+title_status = Etat des commandes :
+text_all_orders = Toutes les commandes
+
+title_help_margin_image = Notes
+title_help_margin =  Notes Informatives
+title_help_margin_description = <li>Le calcul de marge se fait uniquement sur le prix du produit. Les options ne sont pas incluses dans le calcul
+
+
+text_result_page = Page {{listing_from}} sur {{listing_total}}
+text_display_number_of_link = Affiche <strong>{{listing_from}}</strong> à <strong>{{listing_to}}</strong> (sur <strong>{{listing_total}}</strong>)
+
